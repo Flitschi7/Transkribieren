@@ -1,0 +1,18 @@
+# virtual environment
+venv/
+# IDE files
+.idea/
+.vscode/
+# python cache
+__pycache__/
+# variables
+*.env
+
+# output folder
+output/
+# other
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
